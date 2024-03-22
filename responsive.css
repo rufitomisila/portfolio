@@ -1,0 +1,32 @@
+@media (max-width:627px) {
+    .photo-ptofile {
+        display: none;
+    }
+    .aboutme {
+        flex-wrap: wrap;
+    }
+    .picture img {
+        border-bottom: 5px solid cyan;
+        margin-bottom: 10px;
+    }
+
+    .biodata h1 {
+        font-size: 36px;
+    }
+    
+    .biodata h3 {
+        font-size: 25px;
+    }
+    
+    .biodata p {
+        font-size: 12px;
+    }
+    .biodata  {
+        padding: 0 10px;
+        margin-top: 70px;
+    }
+    .footer-1 {
+        font-size: 11px;
+    }
+    
+}
